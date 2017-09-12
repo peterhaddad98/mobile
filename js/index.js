@@ -17,108 +17,108 @@ jQuery(function ($) {
     if (supportsAudio) {
         var index = 0,
             playing = false,
-            mediaPath = 'https://archive.org/download/mythium/',
+            mediaPath = 'https://media.fbcbaptistchurch.org/media/',
             extension = '',
             tracks = [{
                 "track": 1,
                 "name": "All This Is - Joe L.'s Studio",
                 "length": "2:46",
-                "file": "JLS_ATI"
+                "file": "1"
             }, {
                 "track": 2,
                 "name": "The Forsaken - Broadwing Studio (Final Mix)",
                 "length": "8:31",
-                "file": "BS_TF"
+                "file": "2"
             }, {
                 "track": 3,
                 "name": "All The King's Men - Broadwing Studio (Final Mix)",
                 "length": "5:02",
-                "file": "BS_ATKM"
+                "file": "3"
             }, {
                 "track": 4,
                 "name": "The Forsaken - Broadwing Studio (First Mix)",
                 "length": "8:32",
-                "file": "BSFM_TF"
+                "file": "4"
             }, {
                 "track": 5,
                 "name": "All The King's Men - Broadwing Studio (First Mix)",
                 "length": "5:05",
-                "file": "BSFM_ATKM"
+                "file": "5"
             }, {
                 "track": 6,
                 "name": "All This Is - Alternate Cuts",
                 "length": "2:49",
-                "file": "AC_ATI"
+                "file": "6"
             }, {
                 "track": 7,
                 "name": "All The King's Men (Take 1) - Alternate Cuts",
                 "length": "5:45",
-                "file": "AC_ATKMTake_1"
+                "file": "7"
             }, {
                 "track": 8,
                 "name": "All The King's Men (Take 2) - Alternate Cuts",
                 "length": "5:27",
-                "file": "AC_ATKMTake_2"
+                "file": "8"
             }, {
                 "track": 9,
                 "name": "Magus - Alternate Cuts",
                 "length": "5:46",
-                "file": "AC_M"
+                "file": "9"
             }, {
                 "track": 10,
                 "name": "The State Of Wearing Address (fucked up) - Alternate Cuts",
                 "length": "5:25",
-                "file": "AC_TSOWAfucked_up"
+                "file": "10"
             }, {
                 "track": 11,
                 "name": "Magus - Popeye's (New Years '04 - '05)",
                 "length": "5:54",
-                "file": "PNY04-05_M"
+                "file": "11"
             }, {
                 "track": 12,
                 "name": "On The Waterfront - Popeye's (New Years '04 - '05)",
                 "length": "4:41",
-                "file": "PNY04-05_OTW"
+                "file": "12"
             }, {
                 "track": 13,
                 "name": "Trance - Popeye's (New Years '04 - '05)",
                 "length": "13:17",
-                "file": "PNY04-05_T"
+                "file": "13"
             }, {
                 "track": 14,
                 "name": "The Forsaken - Popeye's (New Years '04 - '05)",
                 "length": "8:13",
-                "file": "PNY04-05_TF"
+                "file": "14"
             }, {
                 "track": 15,
                 "name": "The State Of Wearing Address - Popeye's (New Years '04 - '05)",
                 "length": "7:03",
-                "file": "PNY04-05_TSOWA"
+                "file": "15"
             }, {
                 "track": 16,
                 "name": "Magus - Popeye's (Valentine's Day '05)",
                 "length": "5:44",
-                "file": "PVD_M"
+                "file": "16"
             }, {
                 "track": 17,
                 "name": "Trance - Popeye's (Valentine's Day '05)",
                 "length": "10:47",
-                "file": "PVD_T"
+                "file": "17"
             }, {
                 "track": 18,
                 "name": "The State Of Wearing Address - Popeye's (Valentine's Day '05)",
                 "length": "5:37",
-                "file": "PVD_TSOWA"
+                "file": "18"
             }, {
                 "track": 19,
                 "name": "All This Is - Smith St. Basement (01/08/04)",
                 "length": "2:49",
-                "file": "SSB01_08_04_ATI"
+                "file": "19"
             }, {
                 "track": 20,
                 "name": "Magus - Smith St. Basement (01/08/04)",
                 "length": "5:46",
-                "file": "SSB01_08_04_M"
+                "file": "20"
             }, {
                 "track": 21,
                 "name": "Beneath The Painted Eye - Smith St. Basement (06/06/03)",
