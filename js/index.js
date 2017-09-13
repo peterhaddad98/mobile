@@ -21,184 +21,194 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "track": 1,
-                "name": "All This Is - Joe L.'s Studio",
-                "length": "2:46",
+                "name": "Hal 3eshtou kabla an",
+                "length": "5:31",
                 "file": "1"
             }, {
                 "track": 2,
-                "name": "The Forsaken - Broadwing Studio (Final Mix)",
-                "length": "8:31",
+                "name": "Anta li man",
+                "length": "3:51",
                 "file": "2"
             }, {
                 "track": 3,
-                "name": "All The King's Men - Broadwing Studio (Final Mix)",
-                "length": "5:02",
+                "name": "Fawka",
+                "length": "5:14",
                 "file": "3"
             }, {
                 "track": 4,
-                "name": "The Forsaken - Broadwing Studio (First Mix)",
-                "length": "8:32",
+                "name": "Askouno",
+                "length": "3:38",
                 "file": "4"
             }, {
                 "track": 5,
-                "name": "All The King's Men - Broadwing Studio (First Mix)",
-                "length": "5:05",
+                "name": "3anni kada",
+                "length": "4:50",
                 "file": "5"
             }, {
                 "track": 6,
-                "name": "All This Is - Alternate Cuts",
-                "length": "2:49",
+                "name": "2ila be2r samira",
+                "length": "5:52",
                 "file": "6"
             }, {
                 "track": 7,
-                "name": "All The King's Men (Take 1) - Alternate Cuts",
-                "length": "5:45",
+                "name": "Sa2alouzou bi 7idnika",
+                "length": "3:41",
                 "file": "7"
             }, {
                 "track": 8,
-                "name": "All The King's Men (Take 2) - Alternate Cuts",
-                "length": "5:27",
+                "name": "Alki",
+                "length": "3:26",
                 "file": "8"
             }, {
                 "track": 9,
-                "name": "Magus - Alternate Cuts",
-                "length": "5:46",
+                "name": "Moustaslimon",
+                "length": "3:13",
                 "file": "9"
             }, {
                 "track": 10,
-                "name": "The State Of Wearing Address (fucked up) - Alternate Cuts",
-                "length": "5:25",
+                "name": "Rahmatan",
+                "length": "4:24",
                 "file": "10"
             }, {
                 "track": 11,
-                "name": "Magus - Popeye's (New Years '04 - '05)",
-                "length": "5:54",
+                "name": "Lima a5af 7oznan",
+                "length": "3:43",
                 "file": "11"
             }, {
                 "track": 12,
-                "name": "On The Waterfront - Popeye's (New Years '04 - '05)",
-                "length": "4:41",
+                "name": "Far7atou kalbi",
+                "length": "2:44",
                 "file": "12"
             }, {
                 "track": 13,
-                "name": "Trance - Popeye's (New Years '04 - '05)",
-                "length": "13:17",
+                "name": "Hal tarakta lilmasi7",
+                "length": "2:39",
                 "file": "13"
             }, {
                 "track": 14,
-                "name": "The Forsaken - Popeye's (New Years '04 - '05)",
-                "length": "8:13",
+                "name": "Min baha2",
+                "length": "5:12",
                 "file": "14"
             }, {
                 "track": 15,
-                "name": "The State Of Wearing Address - Popeye's (New Years '04 - '05)",
-                "length": "7:03",
+                "name": "Kamilou jamal",
+                "length": "2:52",
                 "file": "15"
             }, {
                 "track": 16,
-                "name": "Magus - Popeye's (Valentine's Day '05)",
-                "length": "5:44",
+                "name": "Ila douja",
+                "length": "3:14",
                 "file": "16"
             }, {
                 "track": 17,
-                "name": "Trance - Popeye's (Valentine's Day '05)",
-                "length": "10:47",
+                "name": "In zara3ti",
+                "length": "5:16",
                 "file": "17"
             }, {
                 "track": 18,
-                "name": "The State Of Wearing Address - Popeye's (Valentine's Day '05)",
-                "length": "5:37",
+                "name": "Askouno",
+                "length": "2:53",
                 "file": "18"
             }, {
                 "track": 19,
-                "name": "All This Is - Smith St. Basement (01/08/04)",
-                "length": "2:49",
+                "name": "Inta moush li",
+                "length": "3:35",
                 "file": "19"
             }, {
                 "track": 20,
-                "name": "Magus - Smith St. Basement (01/08/04)",
-                "length": "5:46",
+                "name": "Yateebo li",
+                "length": "5:26",
                 "file": "20"
             }, {
                 "track": 21,
-                "name": "Beneath The Painted Eye - Smith St. Basement (06/06/03)",
-                "length": "13:08",
-                "file": "SSB06_06_03_BTPE"
+                "name": "Ha innani",
+                "length": "3:37",
+                "file": "21"
             }, {
                 "track": 22,
-                "name": "Innocence - Smith St. Basement (06/06/03)",
-                "length": "5:16",
-                "file": "SSB06_06_03_I"
+                "name": "Ou7ibouka iz",
+                "length": "3:26",
+                "file": "22"
             }, {
                 "track": 23,
-                "name": "Magus - Smith St. Basement (06/06/03)",
-                "length": "5:47",
-                "file": "SSB06_06_03_M"
+                "name": "Rabbi anta li ta3aba",
+                "length": "3:13",
+                "file": "23"
             }, {
                 "track": 24,
-                "name": "Madness Explored - Smith St. Basement (06/06/03)",
-                "length": "4:52",
-                "file": "SSB06_06_03_ME"
+                "name": "Comment",
+                "length": "0:34",
+                "file": "24"
             }, {
                 "track": 25,
-                "name": "The Forsaken - Smith St. Basement (06/06/03)",
-                "length": "8:44",
-                "file": "SSB06_06_03_TF"
+                "name": "Abana lathe",
+                "length": "2:13",
+                "file": "25"
             }, {
                 "track": 26,
-                "name": "All This Is - Smith St. Basement (12/28/03)",
-                "length": "3:01",
-                "file": "SSB12_28_03_ATI"
+                "name": "5alika l2akwani",
+                "length": "5:52",
+                "file": "26"
             }, {
                 "track": 27,
-                "name": "Magus - Smith St. Basement (12/28/03)",
-                "length": "6:10",
-                "file": "SSB12_28_03_M"
+                "name": "Araka Ilahi Arak",
+                "length": "3:35",
+                "file": "27"
             }, {
                 "track": 28,
-                "name": "Madness Explored - Smith St. Basement (12/28/03)",
-                "length": "5:06",
-                "file": "SSB12_28_03_ME"
+                "name": "Ayuha Lkudus",
+                "length": "4:42",
+                "file": "28"
             }, {
                 "track": 29,
-                "name": "Trance - Smith St. Basement (12/28/03)",
-                "length": "12:33",
-                "file": "SSB12_28_03_T"
+                "name": "Ha salatu Tawbati",
+                "length": "4:39",
+                "file": "29"
             }, {
                 "track": 30,
-                "name": "The Forsaken - Smith St. Basement (12/28/03)",
-                "length": "8:57",
-                "file": "SSB12_28_03_TF"
+                "name": "Ya Rabbu Ma A7la",
+                "length": "4:00",
+                "file": "30"
             }, {
                 "track": 31,
-                "name": "All This Is (Take 1) - Smith St. Basement (Nov. '03)",
-                "length": "4:55",
-                "file": "SSB___11_03_ATITake_1"
+                "name": "Rabi Sabayta",
+                "length": "4:05",
+                "file": "31"
             }, {
                 "track": 32,
-                "name": "All This Is (Take 2) - Smith St. Basement (Nov. '03)",
-                "length": "5:46",
-                "file": "SSB___11_03_ATITake_2"
+                "name": "Fi Sitrihi",
+                "length": "6:17",
+                "file": "32"
             }, {
                 "track": 33,
-                "name": "Beneath The Painted Eye (Take 1) - Smith St. Basement (Nov. '03)",
-                "length": "14:06",
-                "file": "SSB___11_03_BTPETake_1"
+                "name": "Ma7abatu Lahi",
+                "length": "1:35",
+                "file": "33"
             }, {
                 "track": 34,
-                "name": "Beneath The Painted Eye (Take 2) - Smith St. Basement (Nov. '03)",
-                "length": "13:26",
-                "file": "SSB___11_03_BTPETake_2"
+                "name": "Rabi J3alanni",
+                "length": "2:39",
+                "file": "34"
             }, {
                 "track": 35,
-                "name": "The Forsaken (Take 1) - Smith St. Basement (Nov. '03)",
-                "length": "8:38",
-                "file": "SSB___11_03_TFTake_1"
+                "name": "Arfa3uka",
+                "length": "4:12",
+                "file": "35"
             }, {
                 "track": 36,
-                "name": "The Forsaken (Take 2) - Smith St. Basement (Nov. '03)",
-                "length": "8:37",
-                "file": "SSB___11_03_TFTake_2"
+                "name": "Sa2alto Nafsi",
+                "length": "3:29",
+                "file": "36"
+            }, {
+                "track": 37,
+                "name": "Lasto A3lamo",
+                "length": "3:49",
+                "file": "37"
+            }, {
+                "track": 38,
+                "name": "Musta7eki Kuli Lmajdi",
+                "length": "3:29",
+                "file": "38"
             }],
             buildPlaylist = $.each(tracks, function(key, value) {
                 var trackNumber = value.track,
